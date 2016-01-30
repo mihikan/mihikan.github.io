@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-I am a Computer Science Sophomore at The University of Texas at Arlington. 
+I am a Computer Science Sophomo.
 
 ### Contact me
 
